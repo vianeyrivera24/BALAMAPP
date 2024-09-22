@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266481416197",
+    "project_id": "itizapp-9c7ce",
+    "storage_bucket": "itizapp-9c7ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266481416197:android:0d0335e85df127f14b046c",
+        "android_client_info": {
+          "package_name": "com.tecnm.itizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266481416197-8tekpu8qmf0p5ara807f0f79osksl28m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF55QJPKwRIeIu7fIvZT6LeeFfCDIFnV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266481416197-8tekpu8qmf0p5ara807f0f79osksl28m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
